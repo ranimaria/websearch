@@ -1,0 +1,20 @@
+{
+    "name": "rani/searchengine",
+    "description": "a library for crawling search engine results and extracting metadata for a set of keywords",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rani\\Searchengine\\": "src/"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "Rani Maria Sojan"
+        }
+    ],
+    "require": {
+        
+    }
+}
