@@ -4,7 +4,7 @@ A library for crawling search engine (google.com and google.ae) results and extr
 
 ## Requirements
 
--PHP 7.2 or above
+* PHP 7.2 or above
 
 ## Installation
 
