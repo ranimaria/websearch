@@ -34,7 +34,7 @@ $searchengine = $client->setEngine("google.com");
 
 //search keywords goes here
 if($searchengine){
-    $results = $client->searchdata(["amazon"]);
+    $results = $client->searchdata(["keyword1","keyword2"]);
 
     //print the results
     print_r($results);
